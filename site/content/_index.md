@@ -8,7 +8,6 @@ blurb:
 intro:
   heading: Nerd shit
   text: Allerlei nerdshit in je kelder G!
-products: []
 values:
   heading: Films en frontend
   text: >-
