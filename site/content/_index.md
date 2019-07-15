@@ -3,7 +3,7 @@ title: De IT-kelder
 subtitle: Alles over frontend en kelders!
 image: /img/conflict_fuels_creativity_by_finmacool.jpg
 blurb:
-  heading: Waarom kelders?
+  heading: Waarom IT en kelders?
   text: Waarom niet? Meeste IT'ers leven in kelders!
 intro:
   heading: Nerd shit
