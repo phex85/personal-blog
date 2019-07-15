@@ -8,6 +8,9 @@ blurb:
 intro:
   heading: Nerd shit
   text: Allerlei nerdshit in je kelder G!
+products:
+  - image: /img/about-direct-sourcing.jpg
+    text: Opa!
 values:
   heading: Films en frontend
   text: >-
